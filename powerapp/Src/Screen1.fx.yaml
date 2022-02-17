@@ -1,2 +1,10 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Height: =140
+        Text: ="Power Apps Demo"
+        Width: =302
+        X: =423
+        Y: =210
+        ZIndex: =1
+
